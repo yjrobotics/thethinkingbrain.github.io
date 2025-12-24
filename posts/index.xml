@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on The Thinking Brain</title>
+    <link>https://thethinkingbrain.github.io/posts/</link>
+    <description>Recent content in Posts on The Thinking Brain</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 22 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://thethinkingbrain.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How the Brain Communicates: Electrical vs Chemical Signaling</title>
+      <link>https://thethinkingbrain.github.io/posts/brain-communication-electrical-vs-chemical/</link>
+      <pubDate>Mon, 22 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://thethinkingbrain.github.io/posts/brain-communication-electrical-vs-chemical/</guid>
+      <description>An easy-to-understand guide to how neurons communicate using electrical and chemical signals — and why the brain needs both.</description>
+    </item>
+  </channel>
+</rss>
