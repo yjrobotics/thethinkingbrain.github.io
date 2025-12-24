@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>The Thinking Brain</title>
-    <link>https://thethinkingbrain.github.io/</link>
+    <link>https://yjrobotics.github.io/thethinkingbrain.github.io/</link>
     <description>Recent content on The Thinking Brain</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 23 Dec 2025 13:29:19 -0800</lastBuildDate>
-    <atom:link href="https://thethinkingbrain.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yjrobotics.github.io/thethinkingbrain.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About me</title>
-      <link>https://thethinkingbrain.github.io/about/</link>
+      <link>https://yjrobotics.github.io/thethinkingbrain.github.io/about/</link>
       <pubDate>Tue, 23 Dec 2025 13:29:19 -0800</pubDate>
-      <guid>https://thethinkingbrain.github.io/about/</guid>
+      <guid>https://yjrobotics.github.io/thethinkingbrain.github.io/about/</guid>
       <description></description>
     </item>
     <item>
       <title>How the Brain Communicates: Electrical vs Chemical Signaling</title>
-      <link>https://thethinkingbrain.github.io/posts/brain-communication-electrical-vs-chemical/</link>
+      <link>https://yjrobotics.github.io/thethinkingbrain.github.io/posts/brain-communication-electrical-vs-chemical/</link>
       <pubDate>Mon, 22 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://thethinkingbrain.github.io/posts/brain-communication-electrical-vs-chemical/</guid>
+      <guid>https://yjrobotics.github.io/thethinkingbrain.github.io/posts/brain-communication-electrical-vs-chemical/</guid>
       <description>An easy-to-understand guide to how neurons communicate using electrical and chemical signals — and why the brain needs both.</description>
     </item>
   </channel>
